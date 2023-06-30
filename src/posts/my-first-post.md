@@ -12,6 +12,8 @@ tags:
 ---
 # This is a Heading h1
 
+[src/static/img/me-zoom.jpg](src/static/img/me-zoom.jpg)
+
 ## This is a Heading h2
 
 ###### This is a Heading h6
