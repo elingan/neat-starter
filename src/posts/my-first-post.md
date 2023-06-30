@@ -12,8 +12,6 @@ tags:
 ---
 # This is a Heading h1
 
-
-
 ## This is a Heading h2
 
 ###### This is a Heading h6
@@ -28,7 +26,7 @@ tags:
 
 *You **can** combine them*
 
-[src/static/img/me-zoom.jpg](src/static/img/me-zoom.jpg)
+![Me](/static/img/me-zoom.jpg "Me")
 
 ## Lists
 
