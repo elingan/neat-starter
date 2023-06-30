@@ -12,7 +12,7 @@ tags:
 ---
 # This is a Heading h1
 
-[src/static/img/me-zoom.jpg](src/static/img/me-zoom.jpg)
+
 
 ## This is a Heading h2
 
@@ -27,6 +27,8 @@ tags:
 **This will also be bold**
 
 *You **can** combine them*
+
+[src/static/img/me-zoom.jpg](src/static/img/me-zoom.jpg)
 
 ## Lists
 
